@@ -1,7 +1,6 @@
 {
 	"pack": {
 		"description": "This is a tweaks and modifications mod designed to enhance or adjust gameplay elements for a specific Švísk Písk IDK experience.",
-		"min_format": 15,
-		"max_formar": 15
+		"pack_format": 15
 	}
 }
