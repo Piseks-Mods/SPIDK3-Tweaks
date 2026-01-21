@@ -3,5 +3,9 @@
   "ingredients": [
     "alexsmobs:soul_heart",
     "touhou_litte_maid:smart_slab_empty"
-  ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "touhou_litte_maid:smart_slab_init"
+  }
 }
